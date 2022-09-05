@@ -9,7 +9,7 @@ var floor;
 numeros.forEach ((e) => {
 
 
-    e.style.width = '80px';
+    e.style.width = '70px';
     e.style.fontSize = '130px'
     e.style.height = '200px';
 
