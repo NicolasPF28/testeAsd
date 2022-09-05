@@ -7,7 +7,7 @@ var floor;
 var height = (window.innerHeight) / 3.05;
 var width = (window.innerWidth) / 3.10;
 
-
+ 
 console.log (height)
 
 numeros.forEach ((e) => {
