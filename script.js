@@ -4,21 +4,14 @@ const container = document.getElementsByClassName ('container');
 const mainNumber = document.getElementById ('nMain');
 const audio = document.getElementById ('audio');
 var floor;
-var height = (window.innerHeight) / 3.05 - 15;
-var width = (window.innerWidth) / 3.10 - 15;
 
-
-console.log (height)
 
 numeros.forEach ((e) => {
 
-    height.toString();
-    height.toString();
 
-
-    e.style.width = width + 'px';
-    e.style.fontSize = '180px'
-    e.style.height = height + 'px';
+    e.style.width = '290px';
+    e.style.fontSize = '150px'
+    e.style.height = '620px';
 
 });
 let cronometroNum = 0;
