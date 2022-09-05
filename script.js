@@ -4,10 +4,10 @@ const container = document.getElementsByClassName ('container');
 const mainNumber = document.getElementById ('nMain');
 const audio = document.getElementById ('audio');
 var floor;
-var height = (window.innerHeight) / 3.05;
-var width = (window.innerWidth) / 3.10;
+var height = (window.innerHeight) / 3.05 - 15;
+var width = (window.innerWidth) / 3.10 - 15;
 
- 
+
 console.log (height)
 
 numeros.forEach ((e) => {
