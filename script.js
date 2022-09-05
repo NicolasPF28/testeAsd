@@ -9,9 +9,9 @@ var floor;
 numeros.forEach ((e) => {
 
 
-    e.style.width = '290px';
+    e.style.width = '90px';
     e.style.fontSize = '150px'
-    e.style.height = '620px';
+    e.style.height = '205px';
 
 });
 let cronometroNum = 0;
